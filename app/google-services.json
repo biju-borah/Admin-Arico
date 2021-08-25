@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "49549129195",
+    "project_id": "book-fb96b",
+    "storage_bucket": "book-fb96b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49549129195:android:d9527739bcf623d86fd5ae",
+        "android_client_info": {
+          "package_name": "com.example.nitsmun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49549129195-14l3057afuvog81rp8hdapumtsj30dic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nitsmun",
+            "certificate_hash": "ba1b8d559802bcfab33bd5995e5db20bbd905fa7"
+          }
+        },
+        {
+          "client_id": "49549129195-0m4l06c0h33jnt73rhk9k9jqoklvqt5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgrpW1cf0KHvOU_gXwk4So4kYYCG1Nrtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49549129195-0m4l06c0h33jnt73rhk9k9jqoklvqt5d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
